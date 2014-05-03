@@ -2,8 +2,8 @@
 layout: default
 ---
  
-# leko.github.com
+# Hub page
  
-## とりあえず作ってみたGithubページ
- 
-ほげほげ
+- [Twitter](https://twitter.com/Yutaka_Kinjyo)
+- [はてなブログ](http://yutakakinjyo.hatenablog.com/)
+- [facebook](https://www.facebook.com/yutaka.kinjyo)
