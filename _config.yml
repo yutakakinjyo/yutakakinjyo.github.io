@@ -1,4 +1,4 @@
 markdown: redcarpet
 redcarpet:
-  extentions: ['tables', 'autolink', 'no_intra_emphasis']
+  extensions: ['tables', 'autolink', 'no_intra_emphasis']
 pygments: true
